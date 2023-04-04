@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello !! 👋
 
-<!--
-**AllyDev218/AllyDev218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🌸 About me : <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer in training since March 2023 <br>
+
+### ✨ Goals : <br>
+
+I want to improve my code and to create a material exchange or donation site for disabled people <br>
+
+### 💼 Job
+
+I'm looking for an internship in September ideally in aeronautics or health companies.<br>
+
+
+💡 Feel free to contact me ! <br>
+
+### Skills :
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
