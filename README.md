@@ -7,7 +7,7 @@ I'm a web developer in training since March 2023 <br>
 
 ## ✨ Goals : <br>
 
-I want to improve my code and to create a material exchange or donation site for people with disabilities <br>
+I want to improve my code and create my page for my business <br>
 Any help is welcome ^^ Thank you in advance ! 👍
 
 ## 💼 Job
